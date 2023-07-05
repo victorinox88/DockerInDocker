@@ -20,5 +20,5 @@ jobs:
       # Runs a single command using the runners shell
       - name: docker build
         run: |
-          docker build ./docker -t docker:latest .
+          docker build ./docker -t docker:latest
 
