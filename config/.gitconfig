@@ -1,0 +1,5 @@
+[user]
+	name = DevOps Automatic
+	email = devops@s4g.es
+[merge "ours"]
+    driver = true
